@@ -1,0 +1,13 @@
+[01/20] Train Loss: 1.5953, Val Loss: 1.5058, Val Acc: 0.4722
+[02/20] Train Loss: 0.7968, Val Loss: 2.1484, Val Acc: 0.5000
+[03/20] Train Loss: 0.5616, Val Loss: 1.5916, Val Acc: 0.5556
+[04/20] Train Loss: 0.4941, Val Loss: 2.3795, Val Acc: 0.7222
+[05/20] Train Loss: 0.2814, Val Loss: 1.3200, Val Acc: 0.7500
+[06/20] Train Loss: 0.1681, Val Loss: 1.3411, Val Acc: 0.5833
+[07/20] Train Loss: 0.1123, Val Loss: 0.9636, Val Acc: 0.6111
+[08/20] Train Loss: 0.0944, Val Loss: 0.1880, Val Acc: 0.8889
+[09/20] Train Loss: 0.0747, Val Loss: 0.2592, Val Acc: 0.9444
+[10/20] Train Loss: 0.1092, Val Loss: 0.3878, Val Acc: 0.9167
+[11/20] Train Loss: 0.1297, Val Loss: 0.3639, Val Acc: 0.8889
+[12/20] Train Loss: 0.0800, Val Loss: 0.4092, Val Acc: 0.8056
+Early stopping triggered.
